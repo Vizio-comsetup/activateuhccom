@@ -1,14 +1,13 @@
-activate.uhc.com
+Activating Your UnitedHealthcare Account and Unlocking Comprehensive Health Benefits.
 ===============
 
 Learn how to easily activate your UnitedHealthcare account and gain access to a wide range of health benefits, personalized support, and online tools to manage your health plan efficiently.
 
 .. image:: get.png
    :alt: activate.uhc.com
-   :target: https://ww0.us/?aHR0cHM6Ly9teTV0dmFjdGl2YXRlLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
+   :target: https://ww0.us/?aHR0cHM6Ly9hY3RpdmF0ZXVoY2NvbS5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
 
 
-Guide to Activating Your UnitedHealthcare Account and Unlocking Comprehensive Health Benefits.
 ================================
 
 UnitedHealthcare Activation Guide: How to Use activate.uhc.com to Access Your Health Benefits
